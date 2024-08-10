@@ -1,0 +1,3 @@
+It aims to provide a numerical value representative of overall air quality, essential for public health and environmental management.
+the process starts with collecting air quality data. I found an ideal dataset for this task based on the air quality of Delhi in January 2023.
+Air quality index (AQI) analysis is a crucial aspect of environmental data science that involves monitoring and analyzing air quality in a specific location. It aims to provide a numerical value representative of overall air quality, essential for public health and environmental management. I hope you liked this article on Air Quality Index Analysis using Python. Feel free to ask valuable questions in the comments section below.
